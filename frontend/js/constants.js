@@ -1,4 +1,4 @@
-const contractAddress = "0x79D9f42Dc5F82390Fafa61C97DaB54132365aaDE"; //Replace with your own contract address
+const contractAddress = "0x11245fA0f50427Ed2C9fdB8533b93e26047Eb08b"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the MeTE on Blockchain NFT Project!!";
